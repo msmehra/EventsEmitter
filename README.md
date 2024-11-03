@@ -1,0 +1,2 @@
+# EventsEmitter
+Events Emitter implementation
